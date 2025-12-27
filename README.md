@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
  I'm Mohammad Salehi
 
 🎓 Computer Engineering student at Shahrekord University  
