@@ -1,16 +1,28 @@
 ## Hi there 👋
 
 <!--
-**mmdsoli1/mmdsoli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Mohammad Salehi
 
-Here are some ideas to get you started:
+🎓 Computer Engineering student at Shahrekord University  
+💻 Programming in C and C++  
+📚 Learning Git and GitHub for collaboration  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌐 **Socials**:  
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/M2085S)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](http://www.linkedin.com/in/mohammad-salehi2006)
+
+---
+
+💻 **Tech Stack**:  
+🟦 C  
+🟦 C++  
+🟥 Git  
+
+---
+
+📊 **GitHub Stats**:  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmdsoli1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmdsoli1&layout=compact&theme=radical)
