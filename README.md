@@ -19,9 +19,3 @@
 🟦 C++  
 🟥 Git  
 
----
-
-📊 **GitHub Stats**:  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmdsoli1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmdsoli1&layout=compact&theme=radical)
